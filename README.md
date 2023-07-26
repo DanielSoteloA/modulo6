@@ -1,17 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+# Prueba Modulo 6
+    - En Construcción
 
 * Ruby version
+    - ruby 3.1.1p18 (2022-02-18 revision 53f5fc4236) [x86_64-linux]
 
-* System dependencies
-
-* Configuration
+* Rails version
+    - ruby 3.1.1p18 (2022-02-18 revision 53f5fc4236) [x86_64-linux]
 
 * Database creation
+    - PostgreSql
 
 * Database initialization
 
